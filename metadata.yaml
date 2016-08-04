@@ -1,0 +1,50 @@
+_repo: Sunshine-Sketches-of-a-Little-Town_3533
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leacock, Stephen
+    alias: Leacock, Stephen Butler
+    birthdate: 1869
+    deathdate: 1944
+    gutenberg_agent_id: '1221'
+    url: http://www.gutenberg.org/2009/agents/1221
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Leacock
+description: "Sunshine Sketches of a Little Town is a sequence of stories by Stephen\
+  \ Leacock, first published in 1912. It is generally considered to be one of the\
+  \ most enduring classics of Canadian humorous literature. The fictional setting\
+  \ for these stories is Mariposa, a small town on the shore of Lake Wissanotti. Although\
+  \ drawn from his experiences in Orillia, Ontario, Leacock notes: \"Mariposa is not\
+  \ a real town. On the contrary, it is about seventy or eighty of them. You may find\
+  \ them all the way from Lake Superior to the sea, with the same square streets and\
+  \ the same maple trees and the same churches and hotels.\"\nThis work has remained\
+  \ popular for its universal appeal. Many of the characters, though modelled on townspeople\
+  \ of Orillia, are small town archetypes. Their shortcomings and weaknesses are presented\
+  \ in a humorous but affectionate way. Often, the narrator exaggerates the importance\
+  \ of the events in Mariposa compared to the rest of the world. For example, when\
+  \ there is a country-wide election, \"the town of Mariposa, was, of course, the\
+  \ storm centre and focus point of the whole turmoil.\"\nThe story of the steamboat\
+  \ Mariposa Belle sinking in Lake Wissanotti is one of the best-loved in the set.\
+  \ The apparent magnitude of this accident is lessened somewhat when it is revealed\
+  \ that the depth of the water is less than six feet. Men from the town come to the\
+  \ rescue in an un-seaworthy lifeboat which sinks beneath them just as they are pulled\
+  \ onto the steamer, and the narrator earnestly remarks that this was \"one of the\
+  \ smartest pieces of rescue work ever seen on the lake.\"\n\n\n From Wikipedia (CC\
+  \ BY-SA)."
+gutenberg_issued: '2002-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3533'
+  wikidata: Q7641568
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'City and town life -- Fiction'
+- !lcsh 'Canada -- Social life and customs -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Sunshine Sketches of a Little Town
+url: http://www.gutenberg.org/ebooks/3533
+wikipedia:
+- https://en.wikipedia.org/wiki/Sunshine_Sketches_of_a_Little_Town
